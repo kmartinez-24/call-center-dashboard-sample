@@ -1,7 +1,6 @@
 # call-center-dashboard-sample
 
-The call center is the front door of our company. Every metric here directly impacts revenue and veteran experience. I need granular visibility into performance at both the team and individual level.
-•	Total outbound calls made per agent, per day, per week, per month
+The call center is the front door of our company. Every metric here directly impacts revenue and veteran experience. I need granular visibility into performance at both the team and individual level.Total outbound calls made per agent, per day, per week, per month
 •	Total texts sent per agent and response rates
 •	Average call duration and talk time versus hold/wrap time
 •	Conversion rate from call to scheduled claims strategy session
